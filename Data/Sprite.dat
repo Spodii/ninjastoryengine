@@ -1,0 +1,15 @@
+[GENERAL]
+NumSprites=1
+
+[1]
+Width=55
+Height=70
+Stand=206
+Walk=213
+JumpUp=216
+JumpDown=219
+Punch=224
+PunchTime=500
+PunchWidth=75
+Hit=227
+Death=233
