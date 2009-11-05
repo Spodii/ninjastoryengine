@@ -1,0 +1,27 @@
+[GENERAL]
+NumBodies=1
+
+[1]
+//Collision area width
+Width=55
+//Collision area height
+Height=70
+//Standing / idling grh index
+Stand=206
+//Walking grh index
+Walk=213
+//Jumping up grh index
+JumpUp=216
+//Falling down grh index
+JumpDown=219
+//Punch attack grh index
+Punch=224
+//How long the punch animation lasts at default speed
+//Value is calculated by: (10000 / AnimSpeed) * Frames
+PunchTime=500
+//Width of the punch attack collision area
+PunchWidth=75
+//Hit grh index (when the character is hit)
+Hit=227
+//Death grh index
+Death=233
